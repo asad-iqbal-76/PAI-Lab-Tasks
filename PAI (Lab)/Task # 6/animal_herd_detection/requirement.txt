@@ -1,0 +1,6 @@
+opencv-python
+numpy
+folium
+geocoder
+requests
+gpsd-py3
