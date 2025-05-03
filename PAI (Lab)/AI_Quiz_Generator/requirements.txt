@@ -1,0 +1,11 @@
+flask 
+transformers 
+nltk 
+sentence-transformers 
+wikipedia 
+PyPDF2 
+flask-caching
+reportlab
+fpdf
+word2number
+inflect
